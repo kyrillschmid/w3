@@ -13,7 +13,7 @@ The basic steps are:
 
 1. Clone the repository
 2. You can create your own development branch or work with the master branch. 
-3. Read the assignment steps on [Moodle Assignment 'Week 3 - Lesson 4 of online course'](https://moodle.hm.edu/mod/assign/view.php?id=421784) or down below.
+3. Read the assignment steps on [Moodle Assignment 'Week 3 - Lesson 4 of online course'](https://moodle.hm.edu/mod/assign/view.php?id=809034) or down below.
 4. Start coding and have fun.
 
 ## Assignment
